@@ -435,11 +435,11 @@ Dashboard Visualization
 
 
 ## 12. Demo & Video
-Live Demo Link:
+Live Demo Link: https://inventory-demand-forecasting-tool.vercel.app/
 
-Demo Video Link:
+Demo Video Link: https://drive.google.com/file/d/1n7UGnMuN1Aok4XM1C956lZbQIEaUkLl6/view?usp=sharing
 
-GitHub Repository:
+GitHub Repository: https://github.com/Rajkshitiz2004/NOOBS_CLUB_Inventory-Demand-Forecasting-Tool
 
 
 
